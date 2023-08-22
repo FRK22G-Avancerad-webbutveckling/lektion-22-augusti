@@ -4,3 +4,10 @@ video {
 	display: block;
 	border: 2px solid black;
 }
+
+.form {
+	margin: 1em;
+	border: 1px solid black;
+	border-radius: 1em;
+	padding: 1em;
+}
